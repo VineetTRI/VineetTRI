@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @VineetTRI
+- 👋 Hi, I’m Vineet Tripathi
 - 👀 I’m interested in PROGRAMMING
-- 🌱 I’m currently learning C LANGUAGE
--
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning JAVA LANGUAGE
+- 💞️ C LANGUAGE || PYTHON
+- 📫 btech2021.vineettripati@mpgi.edu.in
 
 <!---
 VineetTRI/VineetTRI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
